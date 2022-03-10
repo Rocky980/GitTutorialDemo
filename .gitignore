@@ -1,1 +1,4 @@
 mylogs.log
+*.log
+*.cpp
+folder_to_ignore/
